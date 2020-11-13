@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Custom and Mac OS X
+Assets/GameDevHQ/
+.DS_Store
